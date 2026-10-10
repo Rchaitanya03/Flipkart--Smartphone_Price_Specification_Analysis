@@ -1,4 +1,4 @@
-Flipkart Smartphone Price and Specification Analysis
+*Flipkart Smartphone Price and Specification Analysis*
 
 Project Overview
 
